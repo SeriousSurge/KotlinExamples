@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30dfc4af-5a0a-4714-98bd-064f723cadd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YGlLirwNkUxxTSZtL8Mk4xkTKK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="demo.DemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinTut" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="demo.DemoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.demo.DemoKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30dfc4af-5a0a-4714-98bd-064f723cadd3" name="Default Changelist" comment="" />
+      <created>1582576757391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582576757391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="403" height="897" key="GridCell.Tab.0.bottom" timestamp="1582587139229">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="403" height="897" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1582587139229" />
+    <state width="403" height="897" key="GridCell.Tab.0.center" timestamp="1582587139228">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="403" height="897" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1582587139228" />
+    <state width="403" height="897" key="GridCell.Tab.0.left" timestamp="1582587139227">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="403" height="897" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1582587139227" />
+    <state width="403" height="897" key="GridCell.Tab.0.right" timestamp="1582587139228">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="403" height="897" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1582587139228" />
+    <state x="792" y="157" key="SettingsEditor" timestamp="1582577033290">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="792" y="157" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1582577033290" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1582578028560">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1920.1044@0.0.1920.1044" timestamp="1582578028560" />
+    <state x="641" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1582576985306">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="641" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1582576985306" />
+    <state x="942" y="138" width="683" height="768" key="find.popup" timestamp="1582578061173">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="942" y="138" width="683" height="768" key="find.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1582578061173" />
+    <state x="932" y="241" width="700" height="530" key="recent.locations.popup" timestamp="1582578041974">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="932" y="241" width="700" height="530" key="recent.locations.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1582578041974" />
+    <state x="947" y="238" key="run.anything.popup" timestamp="1582585575713">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="947" y="238" key="run.anything.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1582585575713" />
+    <state x="946" y="230" key="search.everywhere.popup" timestamp="1582578051113">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="946" y="230" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1582578051113" />
+  </component>
+</project>
